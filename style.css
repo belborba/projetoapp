@@ -1,0 +1,22 @@
+.shoppingList {
+    width: 300px;
+    border: 1px solid black;
+    height: 300px;
+    border-radius: 8px;
+    margin-top: 16px;
+    padding: 20px;
+    overflow: auto;
+}
+
+.buttonStyle {
+    margin-top: 20px;
+    padding: 10px 20px;
+    margin-left: 10px;
+}
+
+
+
+.inputStyle {
+    margin-top: 20px;
+    padding: 10px 20px;
+}
