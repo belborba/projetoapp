@@ -25,6 +25,7 @@ const clearInnerHTML = (element) => {
     element.innerHTML = ""
 }
 
+
 const updateShoppingListItems = (item) => {
     clearInnerHTML(shoppingList)
     shoppingListItems.push(item)
