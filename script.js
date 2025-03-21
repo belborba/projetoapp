@@ -18,6 +18,8 @@ const renderShoppingList = () => {
     })
 }
 
+console.log("Texto");
+
 
 renderShoppingList()
 
